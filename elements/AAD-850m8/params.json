@@ -1,0 +1,14 @@
+{
+    "add_is_visible": true,
+    "category": "visual elements",
+    "default_dim": {
+        "height": 600,
+        "width": 600
+    },
+    "display": "LaTeX & MathML",
+    "icon": "ion-ios-calculator-outline",
+    "property_applications": {
+        "MinWidth": true,
+        "resizable": true
+    }
+}
