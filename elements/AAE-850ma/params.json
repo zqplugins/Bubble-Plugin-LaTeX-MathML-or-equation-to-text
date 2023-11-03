@@ -1,0 +1,33 @@
+{
+    "add_is_visible": true,
+    "category": "visual elements",
+    "default_dim": {
+        "height": 600,
+        "width": 600
+    },
+    "display": "LaTeX & MathML",
+    "fields": {
+        "AAF": {
+            "caption": "Value",
+            "editor": "DynamicValue",
+            "name": "value",
+            "rank": 0,
+            "value": "text"
+        },
+        "AAI": {
+            "caption": "Hide output",
+            "default_val": false,
+            "doc": "If you want use only action, you may want to hide this element.",
+            "editor": "Checkbox",
+            "name": "hide_output",
+            "rank": 1
+        }
+    },
+    "icon": "ion-ios-calculator-outline",
+    "property_applications": {
+        "Background": true,
+        "Border": true,
+        "MinWidth": true,
+        "resizable": true
+    }
+}

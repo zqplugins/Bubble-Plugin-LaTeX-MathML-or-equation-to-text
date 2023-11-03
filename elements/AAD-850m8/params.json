@@ -5,7 +5,7 @@
         "height": 600,
         "width": 600
     },
-    "display": "LaTeX & MathML",
+    "display": "LaTeX & MathML (deprecated)",
     "icon": "ion-ios-calculator-outline",
     "property_applications": {
         "MinWidth": true,
