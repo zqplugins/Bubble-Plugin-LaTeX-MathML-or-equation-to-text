@@ -1,0 +1,11 @@
+{
+    "caption": "Math to formula (global)",
+    "fields": {
+        "AAH": {
+            "caption": "The action parses the page and converts the LaTex synth into a readable format.",
+            "editor": "Label",
+            "name": "info",
+            "rank": 0
+        }
+    }
+}
