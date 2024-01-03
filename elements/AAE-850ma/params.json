@@ -28,6 +28,7 @@
         "Background": true,
         "Border": true,
         "MinWidth": true,
-        "resizable": true
+        "resizable": true,
+        "Font": true,
     }
 }
